@@ -1,4 +1,4 @@
-#Yet another localization approach in Flutter
+# Yet another localization approach in Flutter
 
 ![](images/cover_image.png)
 
@@ -10,9 +10,7 @@ My requirements for the approach were:
 
 * translation keys are generated to Dart code, no manual keys declaration, and no guessing whether such key exists;
 
-
 * support constant watching for file system changes, rather than using the one-time generating command;
-
 
 * the less code the better.
 
@@ -20,10 +18,9 @@ Pub package **[i69n](https://pub.dev/packages/i69n)** with some bridging code di
 
 ![](images/break_image.png)
 
-####Why [i69n](https://pub.dev/packages/i69n)?
+#### Why [i69n](https://pub.dev/packages/i69n)?
 
 * It works with translations in `.yaml` files. Files can be put in any location under the lib folder, have to be named `<file_name>.i69n.yaml`, `<file_name>_fr.i69n.yaml`, `<file_name>_uk.i69n.yaml` etc.
-
 
 * It generates `String` getters for translations keys into `.dart` files in the same folder the `.yaml` files are located.
   
@@ -51,7 +48,7 @@ flutter packages pub run build_runner watch --delete-conflicting-outputs
 
 * Coupling the results of its code generation with Flutter’s localization mechanism is done in a single file (dart code later in this article).
 
-######Bonus [i69n](https://pub.dev/packages/i69n) features:
+###### Bonus [i69n](https://pub.dev/packages/i69n) features:
 
 * It generates methods instead of just `String` getters if the string is intended to be used as a format.
 
@@ -227,16 +224,15 @@ class Translations_uk extends Translations {
 
 More features can be found in [documentation](https://pub.dev/packages/i69n).
 
-######Limitations:
+##### Limitations:
 
 * no automatic language detection, it is your responsibility to decide which translation to use;
-  
 
 * English has to be the default language.
 
 ![](images/break_image.png)
 
-####How?
+#### How?
 
 So how to implement Flutter app localization with [i69n](https://pub.dev/packages/i69n)?
 
