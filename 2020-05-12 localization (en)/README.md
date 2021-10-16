@@ -18,7 +18,9 @@ Pub package **[i69n](https://pub.dev/packages/i69n)** with some bridging code di
 
 ![](images/break_image.png)
 
-#### Why [i69n](https://pub.dev/packages/i69n)?
+## Why?
+
+So *why* consider using [i69n](https://pub.dev/packages/i69n)?
 
 * It works with translations in `.yaml` files. Files can be put in any location under the lib folder, have to be named `<file_name>.i69n.yaml`, `<file_name>_fr.i69n.yaml`, `<file_name>_uk.i69n.yaml` etc.
 
@@ -48,7 +50,7 @@ flutter packages pub run build_runner watch --delete-conflicting-outputs
 
 * Coupling the results of its code generation with Flutter’s localization mechanism is done in a single file (dart code later in this article).
 
-###### Bonus [i69n](https://pub.dev/packages/i69n) features:
+### Bonus [i69n](https://pub.dev/packages/i69n) features:
 
 * It generates methods instead of just `String` getters if the string is intended to be used as a format.
 
@@ -224,7 +226,7 @@ class Translations_uk extends Translations {
 
 More features can be found in [documentation](https://pub.dev/packages/i69n).
 
-##### Limitations:
+#### Limitations:
 
 * no automatic language detection, it is your responsibility to decide which translation to use;
 
@@ -232,14 +234,13 @@ More features can be found in [documentation](https://pub.dev/packages/i69n).
 
 ![](images/break_image.png)
 
-#### How?
+## How?
 
-So how to implement Flutter app localization with [i69n](https://pub.dev/packages/i69n)?
+So *how* to implement Flutter app localization with [i69n](https://pub.dev/packages/i69n)?
 
 I’ll use the default Flutter counter app as an example. You can follow a step-by-step tutorial here or jump into a complete project sample on [GitHub](https://github.com/foxanna/flutter_localization_example).
 
 1. Create an empty Flutter project with `flutter create` command.
-
 
 2. Edit `pubspec.yaml`.
 
@@ -427,12 +428,8 @@ You can choose to create a `context.translations()` extension, inject them into 
 
 Finally, you can run the app! When the device language settings change, it will be translated into French or Ukrainian or will default to English for other languages.
 
+That’s it! You can find the full code for this project on [GitHub](https://github.com/foxanna/flutter_localization_example).
+
 ![](images/break_image.png)
 
-You can find the full code for this project on  [GitHub](https://github.com/foxanna/flutter_localization_example).
-
-That’s it! Thanks for reading till the end.
-
-
---------
 *[Originally published](https://medium.com/flutter-community/yet-another-localization-approach-in-flutter-477cf058ba41) on May 2020 under "Flutter community" Medium publication.*
