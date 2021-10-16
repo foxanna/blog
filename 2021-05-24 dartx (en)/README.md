@@ -26,9 +26,9 @@ import 'package:dartx/dartx.dart';
 
 ![](images/break_image.png)
 
-### First / last collection item…
+## First / last collection item…
 
-#### … or null
+### … or null
 
 To get the first and last collection items in plain Dart one would write:
 
@@ -62,7 +62,7 @@ final elementAtOrNull = list.elementAtOrNull(index);
 
 returns `null` if the `index` is out of bounds of the `list`.
 
-#### … or default value
+### … or default value
 
 Given you now remember that `.first` and `.last` getters throw errors when `list` is empty, to get the first and last collections items or default value, in plain Dart you’d write:
 
@@ -88,7 +88,7 @@ final elementAtOrDefault = list.elementAtOrDefault(index, defaultValue);
 
 returns `defaultValue` if the `index` is out of bounds of the `list`.
 
-#### … by condition
+### … by condition
 
 To get the first and last collection items that match some condition or `null`, a plain Dart implementation would be:
 
@@ -116,9 +116,9 @@ final lastWhereOrNull = list.lastOrNullWhere((x) => x.matches(condition));
 
 ![](images/break_image.png)
 
-### … collection items depending on their index
+## … collection items depending on their index
 
-#### Map…
+### Map…
 
 It’s not a rare case when you need to obtain a new collection where each item somehow depends on its index. For example, each new item is a string representation of an item from the original collection + its index.
 
@@ -139,7 +139,7 @@ final newList = list.mapIndexed((index, x) => '$index $x').toList();
 
 I applied `.toList()` because this and most other extension methods return lazy `Iterable`.
 
-#### Filter…
+### Filter…
 
 For another example, let’s say there is a need to collect only odd-indexed items. With plain Dart, this can be implemented like:
 
@@ -174,7 +174,7 @@ or
 final oddItems = list.whereNotIndexed((x, index) => index.isEven).toList();
 ```
 
-#### Iterate…
+### Iterate…
 
 How would you log collection content specifying item indexes?
 
@@ -194,7 +194,7 @@ list.forEachIndexed((element, index) => print('$index: $element'));
 
 ![](images/break_image.png)
 
-### Converting a collection to a map
+## Converting a collection to a map
 
 For example, there is a need to convert a list of distinct `Person` objects to a `Map<String, Person>` where keys are `person.id`, and values are whole person instances.
 
@@ -239,7 +239,7 @@ final peopleMapByBirthDate = people.groupBy((person) => person.birthDate);
 
 ![](images/break_image.png)
 
-### Sorting collections
+## Sorting collections
 
 How would you sort a collection in plain Dart? You have to keep in mind that
 
@@ -304,7 +304,7 @@ final orderedDescendingPeopleByAgeAndName = people
 
 ![](images/break_image.png)
 
-### Collecting unique items
+## Collecting unique items
 
 To get distinct collection items one might use this plain Dart implementation:
 
@@ -328,7 +328,7 @@ final uniqueFirstNames = people.distinctBy((person) => person.firstName).toList(
 
 ![](images/break_image.png)
 
-### Min / max / average by item property
+## Min / max / average by item property
 
 To find a min / max collection item, we could for example sort it and take `first` / `last` item:
 
@@ -400,7 +400,7 @@ final totalChildrenCount = people.sumBy((person) => person.childrenCount);
 
 ![](images/break_image.png)
 
-### Filtering out null items
+## Filtering out null items
 
 With plain Dart:
 
@@ -416,11 +416,11 @@ final nonNullItems = list.whereNotNull().toList();
 
 ![](images/break_image.png)
 
-### More useful extensions
+## More useful extensions
 
 There are other useful extensions in [dartx](https://pub.dev/packages/dartx). We won’t go into deeper details here, but I hope the naming and the code are self-explanatory.
 
-#### joinToString
+### joinToString
 
 ```dart
 final report = people.joinToString(
@@ -431,7 +431,7 @@ final report = people.joinToString(
 );
 ```
 
-#### all (every) / none
+### all (every) / none
 
 ```dart
 final allAreAdults = people.all((person) => person.age >= 18);
@@ -439,7 +439,7 @@ final allAreAdults = people.all((person) => person.age >= 18);
 final allAreAdults = people.none((person) => person.age < 18);
 ```
 
-#### first / second / third / fourth collection items
+### first / second / third / fourth collection items
 
 ```dart
 final first = list.first;
@@ -448,7 +448,7 @@ final third = list.third;
 final fourth = list.fourth;
 ```
 
-#### takeFirst / takeLast
+### takeFirst / takeLast
 
 ```dart
 final youngestPeople = people.sortedBy((person) => person.age).takeFirst(5);
@@ -456,7 +456,7 @@ final youngestPeople = people.sortedBy((person) => person.age).takeFirst(5);
 final oldestPeople = people.sortedBy((person) => person.age).takeLast(5);
 ```
 
-#### firstWhile / lastWhile
+### firstWhile / lastWhile
 
 ```dart
 final orderedPeopleUnder50 = people
@@ -472,7 +472,7 @@ final orderedPeopleOver50 = people
 
 ![](images/break_image.png)
 
-### Final words
+## Final words
 
 The [dartx](https://pub.dev/packages/dartx) package contains many more extensions for [`Iterable`](https://github.com/leisim/dartx/blob/master/lib/src/iterable.dart), [`List`](https://github.com/leisim/dartx/blob/master/lib/src/list.dart), and [other Dart types](https://github.com/leisim/dartx/tree/master/lib/src). The best way to explore its capabilities is by browsing the [source code](https://github.com/leisim/dartx).
 
