@@ -38,7 +38,7 @@ final first = list.first;
 final last = list.last;
 ```
 
-which throws a `StateError` if list is empty. Or explicitly return `null`:
+which throws a `StateError` if `list` is empty. Or explicitly return `null`:
 
 ```dart
 final firstOrNull = list.isNotEmpty ? list.first : null;
@@ -168,7 +168,7 @@ With [dartx](https://pub.dev/packages/dartx) it’s only:
 final oddItems = list.whereIndexed((x, index) => index.isOdd).toList();
 ```
 
-or
+or:
 
 ```dart
 final oddItems = list.whereNotIndexed((x, index) => index.isEven).toList();
@@ -210,7 +210,7 @@ With [dartx](https://pub.dev/packages/dartx):
 final peopleMap = people.associate((person) => MapEntry(person.id, person));
 ```
 
-or
+or:
 
 ```dart
 final peopleMap = people.associateBy((person) => person.id);
@@ -259,7 +259,7 @@ final orderedList = [...list]..sort();
 final orderedList = list.sorted();
 ```
 
-and
+and:
 
 ```dart
 final orderedDescendingList = list.sortedDescending();
@@ -280,7 +280,7 @@ With [dartx](https://pub.dev/packages/dartx):
 final orderedPeople = people.sortedBy((person) => person.birthDate);
 ```
 
-and
+and:
 
 ```dart
 final orderedDescendingPeople = people.sortedByDescending((person) => person.birthDate);
@@ -294,7 +294,7 @@ final orderedPeopleByAgeAndName = people
   .thenBy((person) => person.name);
 ```
 
-and
+and:
 
 ```dart
 final orderedDescendingPeopleByAgeAndName = people
@@ -320,7 +320,7 @@ With [dartx](https://pub.dev/packages/dartx), it’s as easy as:
 final unique = list.distinct().toList();
 ```
 
-and
+and:
 
 ```dart
 final uniqueFirstNames = people.distinctBy((person) => person.firstName).toList();
@@ -380,7 +380,7 @@ You can also easily obtain the average:
 final average = list.average();
 ```
 
-and
+and:
 
 ```dart
 final averageAge = people.averageBy((person) => person.age);
