@@ -478,4 +478,4 @@ final orderedPeopleOver50 = people
 
 ![](images/break_image.png)
 
-*[Originally published](https://medium.com/flutter-community/dart-collections-with-dartx-extensions-959a0b42849e) on May 2021 under "Flutter community" Medium publication.*
+*[Опубліковано](https://dou.ua/forums/topic/34098/) на DOU у червні 2021.*
