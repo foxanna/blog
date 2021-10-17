@@ -1,6 +1,18 @@
 
 <table>
     <tr>
+        <td><img src="2021-06%20dartx%20(uk)/images/thumbnail.png?raw=true"></td>
+        <td>&nbsp;
+        
+[**Як покращити Dart-колекції з бібліотекою dartx**](2021-06%20dartx%20(uk)/README.md)  
+*Jun 2021* 
+
+Ділюся своїм досвідом з покращення читабельності та лаконічності Dart-коду у роботі з колекціями за допомогою бібліотеки [dartx](https://pub.dev/packages/dartx) на прикладі повсякденних завдань Flutter-розробника.
+
+`Dart`, `Flutter`, `Collections`, `dartx`, `Dart extensions`
+        </td>
+    </tr>
+    <tr>
         <td><img src="2021-05%20dartx%20(en)/images/thumbnail.png?raw=true"></td>
         <td>&nbsp;
         
