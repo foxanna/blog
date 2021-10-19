@@ -87,7 +87,7 @@ class Translations {
 
 ## Рішення
 
-В основі цього підходу лежить пакет **[i69n](https://pub.dev/packages/i69n)**.
+В основі цього підходу лежить пакет [**i69n**](https://pub.dev/packages/i69n).
 
 ### Чому саме [i69n](https://pub.dev/packages/i69n)?
 
