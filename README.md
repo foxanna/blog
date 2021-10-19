@@ -1,6 +1,18 @@
 
 <table>
     <tr>
+        <td><img src="2021-10%20localization%20(uk)/images/thumbnail.png?raw=true"></td>
+        <td>&nbsp;
+        
+[**Ще один підхід до локалізації Flutter-додатків, якого вам бракувало**](2021-10%20localization%20(uk)/README.md)  
+*Jun 2021* 
+
+Розповідаю, до чого призвело моє прагнення поєднати локалізацію Flutter-додатка з механізмом генерації коду через `build_runner`.
+
+`Flutter`, `localization`, `i69n`, `build_runner`
+        </td>
+    </tr>
+    <tr>
         <td><img src="2021-06%20dartx%20(uk)/images/thumbnail.png?raw=true"></td>
         <td>&nbsp;
         
