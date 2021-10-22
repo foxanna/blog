@@ -37,6 +37,18 @@ Learn about elegant single-line operations on Dart collections provided by `dart
         </td>
     </tr>
     <tr>
+        <td><img src="2021-04%20code_gen/images/thumbnail.png?raw=true"></td>
+        <td>&nbsp;
+        
+[**Code less, deliver more**](2021-04%20code_gen/README.md)  
+*Apr 2021* 
+
+An online talk at the Flutteristas conference 2021 about how code generation works in Flutter and what typical tasks it can facilitate in mobile apps development.
+
+`Dart`, `Flutter`, `build_runner`, `Space exporation history`
+        </td>
+    </tr>
+    <tr>
         <td><img src="2020-05%20localization%20(en)/images/thumbnail.png?raw=true"></td>
         <td>&nbsp;
         
