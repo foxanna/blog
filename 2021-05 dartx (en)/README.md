@@ -483,3 +483,5 @@ Thanks to package authors [Simon Leier](https://www.linkedin.com/in/simon-leier/
 ![](images/break_image.png)
 
 *[Originally published](https://medium.com/flutter-community/dart-collections-with-dartx-extensions-959a0b42849e) on May 2021 under "Flutter community" Medium publication.*
+
+*[Featured in Google Dev Library](https://devlibrary.withgoogle.com/authors/foxanna) under [Flutter](https://devlibrary.withgoogle.com/products/flutter) category.*
