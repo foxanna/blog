@@ -45,7 +45,7 @@ Learn about elegant single-line operations on Dart collections provided by `dart
 
 An online talk at the Flutteristas conference 2021 about how code generation works in Flutter and what typical tasks it can facilitate in mobile apps development.
 
-`Dart`, `Flutter`, `build_runner`, `Space exporation history`
+`Dart`, `Flutter`, `build_runner`, `Space exploration history`
         </td>
     </tr>
     <tr>
