@@ -2,7 +2,7 @@
 
 *Online talk at [the Flutteristas conference 2021](https://www.youtube.com/playlist?list=PL4dBIh1xps-EU8-3BfrOMAAy2R8VzxEGY).*
 
-*Watch on [YouTube](https://www.youtube.com/watch?v=GGwTfsPDiO0&t=511s).*
+*Watch on [YouTube](https://youtu.be/tcixn1Y1Y-Q).*
 
 ![](images/cover_image.png)
 
