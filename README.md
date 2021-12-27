@@ -37,6 +37,19 @@ An online talk at the Flutter Global Summit 21 Vol.2 conference about how Flutte
         </td>
     </tr>
     <tr>
+        <td><img src="2021-06%20flutter%20(wtn)/images/thumbnail.png?raw=true"></td>
+        <td>&nbsp;
+
+[**Flutter: What? Why? How? Where?**](2021-06%20flutter%20(wtn)/README.md)  
+*Jun 2021*
+
+An online talk at the Women in Tech
+Global Conference 2021 about what Flutter is and why you should consider it as a technology choice.
+
+`Flutter`, `Dart`, `Dash`
+        </td>
+    </tr>
+    <tr>
         <td><img src="2021-05%20dartx%20(en)/images/thumbnail.png?raw=true"></td>
         <td>&nbsp;
         
