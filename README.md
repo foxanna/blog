@@ -1,6 +1,18 @@
 
 <table>
     <tr>
+        <td><img src="2021-12%20localization%20(geekle)/images/thumbnail.png?raw=true"></td>
+        <td>&nbsp;
+
+[**Yet another localization approach in Flutter**](2021-12%20localization%20(geekle)/README.md)  
+*Dec 2021*
+
+An online talk at the Flutter Global Summit 21 Vol.2 conference about how Flutter applications can be localized with `build_runner` and `i69n` package.
+
+`Flutter`, `localization`, `i69n`, `build_runner`
+        </td>
+    </tr>
+    <tr>
         <td><img src="2021-10%20localization%20(uk)/images/thumbnail.png?raw=true"></td>
         <td>&nbsp;
         
