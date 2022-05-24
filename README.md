@@ -1,6 +1,18 @@
 
 <table>
     <tr>
+        <td><img src="2022-05%20theme/images/thumbnail.png?raw=true"></td>
+        <td>&nbsp;
+
+[**Consistent design with Flutter Theme**](2022-05%20theme/README.md)  
+*May 2022*
+
+A DartPad workshop dedicated to consistent styling of Flutter widgets.
+
+`Flutter`, `Theme`, `Widgets`, `Material Design`
+        </td>
+    </tr>
+    <tr>
         <td><img src="2022-02%20gc/images/thumbnail.png?raw=true"></td>
         <td>&nbsp;
 
@@ -10,8 +22,8 @@
 An online talk at the Flutter Vikings conference about Garbage Collector in Dart.
 
 `Flutter`, `Dart`, `Garbage Collector`
-</td>
-</tr>
+        </td>
+    </tr>
     <tr>
         <td><img src="2021-12%20localization%20(geekle)/images/thumbnail.png?raw=true"></td>
         <td>&nbsp;
