@@ -1,6 +1,18 @@
 
 <table>
     <tr>
+        <td><img src="2022-02%20gc/images/thumbnail.png?raw=true"></td>
+        <td>&nbsp;
+
+[**Trash talk**](2022-02%20gc/README.md)  
+*Feb 2022*
+
+An online talk at the Flutter Vikings conference about Garbage Collector in Dart.
+
+`Flutter`, `Dart`, `Garbage Collector`
+</td>
+</tr>
+    <tr>
         <td><img src="2021-12%20localization%20(geekle)/images/thumbnail.png?raw=true"></td>
         <td>&nbsp;
 
