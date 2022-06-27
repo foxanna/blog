@@ -1,6 +1,19 @@
 
 <table>
     <tr>
+        <td><img src="2022-06.2%20flutter%20(wtn)/images/thumbnail.png?raw=true"></td>
+        <td>&nbsp;
+
+[**Flutter: one framework to rule them all**](2022-06.2%20flutter%20(wtn)/README.md)  
+*Jun 2022*
+
+An online talk at the Women in Tech
+Global Conference 2022 about Flutter productivity and developer experience.
+
+`Flutter`, `Dart`
+        </td>
+    </tr>
+    <tr>
         <td><img src="2022-06.1%20networking/images/thumbnail.png?raw=true"></td>
         <td>&nbsp;
 
