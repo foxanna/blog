@@ -16,7 +16,5 @@ This six-part series presents tools and approaches that facilitate API layer imp
 
 Each of these parts can be applied independently, but together they complement each other and form a full-fledged API layer implementation.
 
-[_Read further..._](https://medium.com/tide-engineering-team/basic-and-advanced-networking-in-dart-and-flutter-the-tide-way-part-0-introduction-33ac040a4a1c)
-
 ![](images/break.png)
 
