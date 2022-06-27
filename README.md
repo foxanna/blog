@@ -1,10 +1,10 @@
 
 <table>
     <tr>
-        <td><img src="2022-06%20networking/images/thumbnail.png?raw=true"></td>
+        <td><img src="2022-06.1%20networking/images/thumbnail.png?raw=true"></td>
         <td>&nbsp;
 
-[**Basic and advanced networking in Dart and Flutter — the Tide way**](2022-06%20networking/README.md)  
+[**Basic and advanced networking in Dart and Flutter — the Tide way**](2022-06.1%20networking/README.md)  
 *Jun 2022*
 
 An online talk at the Flutter Global Summit'22 about API layer implementation in Flutter applications.
