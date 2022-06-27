@@ -1,6 +1,18 @@
 
 <table>
     <tr>
+        <td><img src="2022-06.3%20workshops/images/thumbnail.png?raw=true"></td>
+        <td>&nbsp;
+
+[**DartPad воркшопи від Flutter GDE**](2022-06.3%20workshops/README.md)  
+*Jun 2022*
+
+Оглядова стаття з посиланнями на DartPad воркшопи від Flutter GDE, представленими на Google I/O.
+
+`Flutter`, `Dart`, `DartPad`
+        </td>
+    </tr>
+    <tr>
         <td><img src="2022-06.2%20flutter%20(wtn)/images/thumbnail.png?raw=true"></td>
         <td>&nbsp;
 
