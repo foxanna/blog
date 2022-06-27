@@ -1,6 +1,18 @@
 
 <table>
     <tr>
+        <td><img src="2022-05_%20networking/images/thumbnail.png?raw=true"></td>
+        <td>&nbsp;
+
+[**Basic and advanced networking in Dart and Flutter — the Tide way**](2022-05_%20networking/README.md)  
+*May 2022*
+
+This six-part series presents tools and approaches that facilitate API layer implementation in Flutter and Dart applications we use at [Tide](https://www.tide.co).
+
+`Flutter`, `Dart`, `build_runner`, `freezed`, `json_serializable`, `dio`, `retrofit`
+        </td>
+    </tr>
+    <tr>
         <td><img src="2022-05%20theme/images/thumbnail.png?raw=true"></td>
         <td>&nbsp;
 
