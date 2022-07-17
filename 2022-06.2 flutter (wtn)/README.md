@@ -3,7 +3,7 @@
 *Online talk at [Women in Tech
 Global Conference 2022](https://www.womentech.net/speaker/Anna/(Domashych)%20Leushchenko/69712) on June 8, 2022.*
 
-*Watch on [YouTube]().*
+*Watch on [YouTube](https://youtu.be/VCRIO0r64Xg).*
 
 ![](images/cover_image.png)
 
