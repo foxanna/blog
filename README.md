@@ -1,6 +1,18 @@
 
 <table>
     <tr>
+        <td><img src="2022-08.1%20pocus/images/thumbnail.png?raw=true"></td>
+        <td>&nbsp;
+
+[**Hocus pocus: painless headers customization of REST API requests in Flutter**](2022-08.1%20pocus/README.md)  
+*Aug 2022*
+
+How to provide different headers to individual, selected, most, or all REST API requests without explicitly passing them as parameters when using retrofit code generating package or alike.
+
+`Flutter`, `Dart`, `REST API`, `Code generation`
+        </td>
+    </tr>
+    <tr>
         <td><img src="2022-06.3%20workshops/images/thumbnail.png?raw=true"></td>
         <td>&nbsp;
 
