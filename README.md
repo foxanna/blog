@@ -1,5 +1,17 @@
 
-<table>
+<table>     
+    <tr>
+        <td><img src="2022-08.2%20speaking/images/thumbnail.png?raw=true"></td>
+        <td>&nbsp;
+
+[**How I was preparing for my talk at Flutter Vikings in August 2022, with a few possibly reusable tips**](2022-08.2%20speaking/README.md)  
+*Aug 2022*
+
+I share what it takes me to prepare a quality technical talk, what my struggles are, and the tricks that I use to make this stressful process a pleasant journey.
+
+`Public speaking`
+        </td>
+    </tr> 
     <tr>
         <td><img src="2022-08.1%20pocus/images/thumbnail.png?raw=true"></td>
         <td>&nbsp;
@@ -128,8 +140,7 @@ An online talk at the Flutter Global Summit 21 Vol.2 conference about how Flutte
 [**Flutter: What? Why? How? Where?**](2021-06%20flutter%20(wtn)/README.md)  
 *Jun 2021*
 
-An online talk at the Women in Tech
-Global Conference 2021 about what Flutter is and why you should consider it as a technology choice.
+An online talk at the Women in Tech Global Conference 2021 about what Flutter is and why you should consider it as a technology choice.
 
 `Flutter`, `Dart`, `Dash`
         </td>
