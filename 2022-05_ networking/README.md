@@ -1,6 +1,6 @@
 # Basic and advanced networking in Dart and Flutter — the Tide way
 
-![](images/part-0.png)
+![](images/cover.png)
 
 Most applications, be it mobile, web, or desktop, depend on some kind of backend. Thus, an API layer is an integral part of application implementation.
 
