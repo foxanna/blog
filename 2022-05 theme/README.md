@@ -1,6 +1,6 @@
 # Consistent design with Flutter Theme
 
-*DartPaf workshop featured at [Google I/O 2022](https://io.google/2022/)*
+*DartPad workshop featured at [Google I/O 2022](https://io.google/2022/)*
 
 *[Give it a try](https://dartpad.dev/workshops.html?webserver=https://raw.githubusercontent.com/foxanna/flutter_theme_workshop/main/workshop)*
 
