@@ -1,7 +1,7 @@
 
 <table>     
     <tr>
-        <td><img src="2022-08.2%20speaking/images/thumbnail.png?raw=true"></td>
+        <td><img src="2022-08.2%20speaking/images/thumbnail.png"/></td>
         <td>&nbsp;
 
 [**How I was preparing for my talk at Flutter Vikings in August 2022, with a few possibly reusable tips**](2022-08.2%20speaking/README.md)  
@@ -13,7 +13,7 @@ I share what it takes me to prepare a quality technical talk, what my struggles 
         </td>
     </tr> 
     <tr>
-        <td><img src="2022-08.1%20pocus/images/thumbnail.png?raw=true"></td>
+        <td><img src="2022-08.1%20pocus/images/thumbnail.png"/></td>
         <td>&nbsp;
 
 [**Hocus pocus: painless headers customization of REST API requests in Flutter**](2022-08.1%20pocus/README.md)  
@@ -25,7 +25,7 @@ How to provide different headers to individual, selected, most, or all REST API 
         </td>
     </tr>
     <tr>
-        <td><img src="2022-06.3%20workshops/images/thumbnail.png?raw=true"></td>
+        <td><img src="2022-06.3%20workshops/images/thumbnail.png"/></td>
         <td>&nbsp;
 
 [**DartPad воркшопи від Flutter GDE**](2022-06.3%20workshops/README.md)  
@@ -37,7 +37,7 @@ How to provide different headers to individual, selected, most, or all REST API 
         </td>
     </tr>
     <tr>
-        <td><img src="2022-06.2%20flutter%20(wtn)/images/thumbnail.png?raw=true"></td>
+        <td><img src="2022-06.2%20flutter%20(wtn)/images/thumbnail.png"/></td>
         <td>&nbsp;
 
 [**Flutter: one framework to rule them all**](2022-06.2%20flutter%20(wtn)/README.md)  
@@ -50,7 +50,7 @@ Global Conference 2022 about Flutter productivity and developer experience.
         </td>
     </tr>
     <tr>
-        <td><img src="2022-06.1%20networking/images/thumbnail.png?raw=true"></td>
+        <td><img src="2022-06.1%20networking/images/thumbnail.png"/></td>
         <td>&nbsp;
 
 [**Basic and advanced networking in Dart and Flutter — the Tide way**](2022-06.1%20networking/README.md)  
@@ -62,7 +62,7 @@ An online talk at the Flutter Global Summit'22 about API layer implementation in
         </td>
     </tr>
     <tr>
-        <td><img src="2022-05_%20networking/images/thumbnail.png?raw=true"></td>
+        <td><img src="2022-05_%20networking/images/thumbnail.png"/></td>
         <td>&nbsp;
 
 [**Basic and advanced networking in Dart and Flutter — the Tide way**](2022-05_%20networking/README.md)  
@@ -74,7 +74,7 @@ This six-part series presents tools and approaches that facilitate API layer imp
         </td>
     </tr>
     <tr>
-        <td><img src="2022-05%20theme/images/thumbnail.png?raw=true"></td>
+        <td><img src="2022-05%20theme/images/thumbnail.png"/></td>
         <td>&nbsp;
 
 [**Consistent design with Flutter Theme**](2022-05%20theme/README.md)  
@@ -86,7 +86,7 @@ A DartPad workshop dedicated to consistent styling of Flutter widgets.
         </td>
     </tr>
     <tr>
-        <td><img src="2022-02%20gc/images/thumbnail.png?raw=true"></td>
+        <td><img src="2022-02%20gc/images/thumbnail.png"/></td>
         <td>&nbsp;
 
 [**Trash talk**](2022-02%20gc/README.md)  
@@ -98,7 +98,7 @@ An online talk at the Flutter Vikings conference about Garbage Collector in Dart
         </td>
     </tr>
     <tr>
-        <td><img src="2021-12%20localization%20(geekle)/images/thumbnail.png?raw=true"></td>
+        <td><img src="2021-12%20localization%20(geekle)/images/thumbnail.png"/></td>
         <td>&nbsp;
 
 [**Yet another localization approach in Flutter**](2021-12%20localization%20(geekle)/README.md)  
@@ -110,7 +110,7 @@ An online talk at the Flutter Global Summit 21 Vol.2 conference about how Flutte
         </td>
     </tr>
     <tr>
-        <td><img src="2021-10%20localization%20(uk)/images/thumbnail.png?raw=true"></td>
+        <td><img src="2021-10%20localization%20(uk)/images/thumbnail.png"/></td>
         <td>&nbsp;
         
 [**Ще один підхід до локалізації Flutter-додатків, якого вам бракувало**](2021-10%20localization%20(uk)/README.md)  
@@ -122,7 +122,7 @@ An online talk at the Flutter Global Summit 21 Vol.2 conference about how Flutte
         </td>
     </tr>
     <tr>
-        <td><img src="2021-06%20dartx%20(uk)/images/thumbnail.png?raw=true"></td>
+        <td><img src="2021-06%20dartx%20(uk)/images/thumbnail.png"/></td>
         <td>&nbsp;
         
 [**Як покращити Dart-колекції з бібліотекою dartx**](2021-06%20dartx%20(uk)/README.md)  
@@ -134,7 +134,7 @@ An online talk at the Flutter Global Summit 21 Vol.2 conference about how Flutte
         </td>
     </tr>
     <tr>
-        <td><img src="2021-06%20flutter%20(wtn)/images/thumbnail.png?raw=true"></td>
+        <td><img src="2021-06%20flutter%20(wtn)/images/thumbnail.png"/></td>
         <td>&nbsp;
 
 [**Flutter: What? Why? How? Where?**](2021-06%20flutter%20(wtn)/README.md)  
@@ -146,7 +146,7 @@ An online talk at the Women in Tech Global Conference 2021 about what Flutter is
         </td>
     </tr>
     <tr>
-        <td><img src="2021-05%20dartx%20(en)/images/thumbnail.png?raw=true"></td>
+        <td><img src="2021-05%20dartx%20(en)/images/thumbnail.png"/></td>
         <td>&nbsp;
         
 [**Dart collections with DartX extensions**](2021-05%20dartx%20(en)/README.md)  
@@ -158,7 +158,7 @@ Learn about elegant single-line operations on Dart collections provided by `dart
         </td>
     </tr>
     <tr>
-        <td><img src="2021-04%20code_gen/images/thumbnail.png?raw=true"></td>
+        <td><img src="2021-04%20code_gen/images/thumbnail.png"/></td>
         <td>&nbsp;
         
 [**Code less, deliver more**](2021-04%20code_gen/README.md)  
@@ -170,7 +170,7 @@ An online talk at the Flutteristas conference 2021 about how code generation wor
         </td>
     </tr>
     <tr>
-        <td><img src="2020-05%20localization%20(en)/images/thumbnail.png?raw=true"></td>
+        <td><img src="2020-05%20localization%20(en)/images/thumbnail.png"/></td>
         <td>&nbsp;
         
 [**Yet another localization approach in Flutter**](2020-05%20localization%20(en)/README.md)  
