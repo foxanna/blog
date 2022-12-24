@@ -1,6 +1,6 @@
 # Basic and advanced networking in Dart and Flutter — the Tide way
 
-*Online talk at [the Flutter Global Summit 22](https://geekle.us/schedule/flutter2) on June 1, 2022.*
+*Online talk at [the Flutter Global Summit 22](https://geekle.us/schedule/flutter22) on June 1, 2022.*
 
 *Watch on [YouTube](https://youtu.be/EQZhIrevmTs).*
 
