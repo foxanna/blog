@@ -1,6 +1,6 @@
 # Fun with code generation
 
-*Live talk at [Flutter Vikings conference](https://fluttervikings.com/) on August 31, 2022.*
+*In-person talk at the [Flutter Vikings conference](https://fluttervikings.com/) on August 31, 2022.*
 
 *Watch on [YouTube](https://youtu.be/gn1F7GClECY?t=3680).*
 

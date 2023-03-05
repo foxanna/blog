@@ -1,13 +1,25 @@
 
 <table>     
     <tr>
+        <td><img src="2022-09%20lego/images/thumbnail.png"/></td>
+        <td>&nbsp;
+
+[**Building Flutter apps in Lego style**](2022-09%20lego/README.md)  
+*Sep 2022*
+
+In-person talk at the Flutter Vikings conference about Flutter applications architecture.
+
+`Dart`, `Flutter`, `architecture`
+        </td>
+    </tr> 
+    <tr>
         <td><img src="2022-08.3%20code_gen/images/thumbnail.png"/></td>
         <td>&nbsp;
 
 [**Fun with code generation**](2022-08.3%20code_gen/README.md)  
 *Aug 2022*
 
-A live talk at the Flutter Vikings conference about Code generation with build_runner.
+In-person talk at the Flutter Vikings conference about Code generation with build_runner.
 
 `Dart`, `Flutter`, `build_runner`
         </td>
