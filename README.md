@@ -85,6 +85,18 @@ How to provide different headers to individual, selected, most, or all REST API 
         </td>
     </tr>
     <tr>
+        <td><img src="2022-07%20networking%20(uk)/images/thumbnail.png"/></td>
+        <td>&nbsp;
+
+[**Нетворкінг у Flutter додатках — про просте і складне на прикладі Tide**](2022-07%20networking%20(uk)/README.md)  
+*Jul 2022*
+
+Ця серія із шести частин представляє інструменти та підходи, які полегшують реалізацію рівня API у Flutter додатках.
+
+`Flutter`, `Dart`, `build_runner`, `freezed`, `json_serializable`, `dio`, `retrofit`
+        </td>
+    </tr>
+    <tr>
         <td><img src="2022-06.3%20workshops/images/thumbnail.png"/></td>
         <td>&nbsp;
 
