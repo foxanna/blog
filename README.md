@@ -1,6 +1,18 @@
 
 <table>     
     <tr>
+        <td><img src="2022-08.3%20code_gen/images/thumbnail.png"/></td>
+        <td>&nbsp;
+
+[**Fun with code generation**](2022-08.3%20code_gen/README.md)  
+*Aug 2022*
+
+A live talk at the Flutter Vikings conference about Code generation with build_runner.
+
+`Dart`, `Flutter`, `build_runner`
+        </td>
+    </tr>
+    <tr>
         <td><img src="2022-08.2%20speaking/images/thumbnail.png"/></td>
         <td>&nbsp;
 
@@ -43,8 +55,7 @@ How to provide different headers to individual, selected, most, or all REST API 
 [**Flutter: one framework to rule them all**](2022-06.2%20flutter%20(wtn)/README.md)  
 *Jun 2022*
 
-An online talk at the Women in Tech
-Global Conference 2022 about Flutter productivity and developer experience.
+An online talk at the Women in Tech Global Conference 2022 about Flutter productivity and developer experience.
 
 `Flutter`, `Dart`
         </td>
