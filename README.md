@@ -7,7 +7,7 @@
 [**Assertions in Dart and Flutter tests: an ultimate cheat sheet**](2023-02%20testing/README.md)  
 *Feb 2023*
 
-An ultimate cheat sheet for assertions in Dart and Flutter tests with many details explained.
+An online talk at the Flutter Global Summit conference about an ultimate cheat sheet for assertions in Dart and Flutter tests.
 
 `Dart`, `Flutter`, `testing`
         </td>
@@ -23,7 +23,19 @@ A video about managing private dependencies in Flutter applications.
 
 `Dart`, `Flutter`, `Private packages`
         </td>
-    </tr>    
+    </tr>   
+    <tr>
+        <td><img src="2022-12%20testing/images/thumbnail.png"/></td>
+        <td>&nbsp;
+        
+[**Assertions in Dart and Flutter tests: an ultimate cheat sheet**](2022-12%20testing/README.md)  
+*Dec 2022*
+
+An ultimate cheat sheet for assertions in Dart and Flutter tests with many details explained.
+
+`Dart`, `Flutter`, `testing`
+        </td>
+    </tr>     
     <tr>
         <td><img src="2022-09%20lego/images/thumbnail.png"/></td>
         <td>&nbsp;
