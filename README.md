@@ -11,6 +11,18 @@ An ultimate cheat sheet for assertions in Dart and Flutter tests with many detai
 
 `Dart`, `Flutter`, `testing`
         </td>
+    </tr>     
+    <tr>
+        <td><img src="2023-01%20packages/images/thumbnail.png"/></td>
+        <td>&nbsp;
+
+[**Private Dart and Flutter packages**](2023-01%20packages/README.md)  
+*Jan 2023*
+
+A video about managing private dependencies in Flutter applications.
+
+`Dart`, `Flutter`, `Private packages`
+        </td>
     </tr>    
     <tr>
         <td><img src="2022-09%20lego/images/thumbnail.png"/></td>
