@@ -1,6 +1,18 @@
 
 <table>     
     <tr>
+        <td><img src="2023-03%20wtm%20iwd/images/thumbnail.png"/></td>
+        <td>&nbsp;
+
+[**Сила комʼюніті**](2023-03%20wtm%20iwd/README.md)  
+*Mar 2023*
+
+An online talk at the Google Developer Student Club about the power of the community (UA).
+
+`Community`, `Career development`
+        </td>
+    </tr>    
+    <tr>
         <td><img src="2023-02%20testing/images/thumbnail.png"/></td>
         <td>&nbsp;
 
