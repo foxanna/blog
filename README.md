@@ -1,5 +1,17 @@
 
-<table>     
+<table>  
+    <tr>
+        <td><img src="2023-03%20testing/images/thumbnail.png"/></td>
+        <td>&nbsp;
+
+[**Перевірки у Dart та Flutter тестах: найповніша шпаргалка**](2023-03%20testing/README.md)  
+*Mar 2023*
+
+Тут ви знайдете найповнішу шпаргалку з перевірок доступних у Dart та Flutter тестах з детальними коментарями!
+
+`Dart`, `Flutter`, `testing`
+        </td>
+    </tr>
     <tr>
         <td><img src="2023-03%20wtm%20iwd/images/thumbnail.png"/></td>
         <td>&nbsp;
