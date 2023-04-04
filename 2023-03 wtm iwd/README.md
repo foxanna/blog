@@ -2,7 +2,7 @@
 
 *Онлайн виступ у [Google Developer Student Clubs у КПІ](https://gdsc.community.dev/events/details/developer-student-clubs-national-technical-university-of-ukraine-kyiv-polytechnic-institute-natsionalnii-tekhnichnii-universitet-ukrayini-kiyivskii-politekhnichnii-institut-presents-the-power-of-the-communitypage-to-stage/) 25 березня 2023.*
 
-*Дивитись на [YouTube]().*
+*Дивитись на [YouTube](https://youtu.be/Q5xrFLBfBZg).*
 
 ![](images/cover_image.png)
 
