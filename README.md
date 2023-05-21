@@ -23,7 +23,19 @@ An online talk at the Google Developer Student Club about the power of the commu
 
 `Community`, `Career development`
         </td>
-    </tr>    
+    </tr>
+    <tr>
+        <td><img src="2023-03%20wad%20iwd/images/thumbnail.png"/></td>
+        <td>&nbsp;
+
+[**The power of the community**](2023-03%20wad%20iwd/README.md)  
+*Mar 2023*
+    
+An online talk at the Women in Tech Day by WeAreDevelopers LIVE about the power of the community.
+
+`Community`, `Career development`
+        </td>
+    </tr>
     <tr>
         <td><img src="2023-02%20testing/images/thumbnail.png"/></td>
         <td>&nbsp;
@@ -35,7 +47,7 @@ An online talk at the Flutter Global Summit conference about an ultimate cheat s
 
 `Dart`, `Flutter`, `testing`
         </td>
-    </tr>     
+    </tr> 
     <tr>
         <td><img src="2023-01%20packages/images/thumbnail.png"/></td>
         <td>&nbsp;
