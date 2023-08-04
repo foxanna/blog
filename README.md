@@ -1,6 +1,18 @@
 
 <table>  
     <tr>
+        <td><img src="2023-07%20wad%20wc/images/thumbnail.png"/></td>
+        <td>&nbsp;
+
+[**From native to Flutter in less than a year**](2023-07%20wad%20wc/README.md)  
+    *July 2023*
+
+A virtual talk at WeAreDevelopers World Congress about a transformation journey of a production product from native mobile technologies to Flutter.
+    
+`Flutter`, `Dart`
+        </td>
+    </tr>
+    <tr>
         <td><img src="2023-05%20womentech/images/thumbnail.png"/></td>
         <td>&nbsp;
 
