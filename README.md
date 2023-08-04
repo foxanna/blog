@@ -13,6 +13,18 @@ A virtual talk at WeAreDevelopers World Congress about a transformation journey 
         </td>
     </tr>
     <tr>
+        <td><img src="2023-07%20fluttercon/images/thumbnail.png"/></td>
+        <td>&nbsp;
+
+[**Live technical interviews for Flutter roles**](2023-07%20fluttercon/README.md)  
+*July 2023*
+
+An in-person interview at FlutterCon.
+
+`Flutter`, `Dart`, `interview`
+        </td>
+    </tr>
+    <tr>
         <td><img src="2023-05%20womentech/images/thumbnail.png"/></td>
         <td>&nbsp;
 
