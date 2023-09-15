@@ -1,6 +1,18 @@
 
 <table>  
     <tr>
+        <td><img src="2023-09%20flutter-n-friends/images/thumbnail.png"/></td>
+        <td>&nbsp;
+
+[**Basic and advanced networking in Dart and Flutter**](2023-09%20flutter-n-friends/README.md)  
+*September 2023*
+
+A hands-on workshop at Flutter&Friends conference about API integration.
+
+`Flutter`, `Dart`
+        </td>
+    </tr>
+    <tr>
         <td><img src="2023-07%20wad%20wc/images/thumbnail.png"/></td>
         <td>&nbsp;
 
@@ -19,7 +31,7 @@ A virtual talk at WeAreDevelopers World Congress about a transformation journey 
 [**Live technical interviews for Flutter roles**](2023-07%20fluttercon/README.md)  
 *July 2023*
 
-An in-person interview at FlutterCon.
+An in-person Flutter dev interview at FlutterCon.
 
 `Flutter`, `Dart`, `interview`
         </td>
