@@ -2,6 +2,8 @@
 
 *An in-person talk at the [FlutterCon](https://fluttercon.dev/anna-leushchenko/) on July 6, 2023.*
 
+*Watch on [YouTube](https://youtu.be/BGqF0kvJsi0).*
+
 ![](images/cover_image.png)
 
 Let’s get together for live interviews for Junior and Senior Flutter developer roles!
