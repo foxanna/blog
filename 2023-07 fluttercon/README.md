@@ -16,3 +16,5 @@ After watching this talk, you will walk away with:
   * for a Senior role interview
 * Interview best practices for interviewees and interviewers
 * Confidence going into the interview process
+
+[Learning resources](https://foxanna.notion.site/Preparing-for-Flutter-interview-2778d5d29b3f4a24a3452dd852c5b38e)
