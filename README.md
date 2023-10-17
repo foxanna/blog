@@ -1,6 +1,18 @@
 
 <table>      
     <tr>
+        <td><img src="2023-10%20networking%20workshop%20(uk)/images/thumbnail.png"/></td>
+        <td>&nbsp;
+
+[**Ефективна реалізація комунікації з RESTful API у Flutter додатках (Effective implementation of communication with RESTful API in Flutter applications)**](2023-10%20networking%20workshop%20(uk)/README.md)  
+*October 2023*
+
+A hands-on workshop about API integration at a Ukrainian dev meetup
+
+`Flutter`, `Dart`
+        </td>
+    </tr>   
+    <tr>
         <td><img src="2023-09%20f3/images/thumbnail.png"/></td>
         <td>&nbsp;
 
