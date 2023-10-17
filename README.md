@@ -1,5 +1,17 @@
 
-<table>  
+<table>      
+    <tr>
+        <td><img src="2023-09%20f3/images/thumbnail.png"/></td>
+        <td>&nbsp;
+
+[**Mobile apps distribution with Firebase**](2023-09%20f3/README.md)  
+*September 2023*
+
+An in-person talk at the Firebase Flutter Festival about Firebase Apps Distribution.
+
+`Flutter`, `Dart`, `Firebase`
+        </td>
+    </tr>
     <tr>
         <td><img src="2023-09%20flutter-n-friends/images/thumbnail.png"/></td>
         <td>&nbsp;
