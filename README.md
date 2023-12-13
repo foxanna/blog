@@ -1,6 +1,18 @@
 
 <table>
     <tr>
+        <td><img src="2023-11%20fwdays%20cto/images/thumbnail.png"/></td>
+        <td>&nbsp;
+
+[**Впровадження Flutter у Tide: досвід провідної фінтех платформи з Великої Британії (Bringing Flutter to Tide: a case study of a leading fintech platform in the UK)**](2023-11%20fwdays%20cto/README.md)  
+*November 2023*
+
+A live online talk at the CTO fwdays'23 conference about  a transformation journey of a production product from native mobile technologies to Flutter
+
+`Flutter`, `Dart`
+        </td>
+    </tr>    
+    <tr>
         <td><img src="2023-11%20flutteristas/images/thumbnail.png"/></td>
         <td>&nbsp;
 
