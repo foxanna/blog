@@ -1,5 +1,17 @@
 
-<table>
+<table> 
+    <tr>
+        <td><img src="2023-12%20leaddev/images/thumbnail.png"/></td>
+        <td>&nbsp;
+
+[**Native to Flutter: A tale of Tide’s transformation**](2023-12%20leaddev/README.md)  
+*December 2023*
+
+An in-person talk at the LeadDev Berlin Conference about a transformation journey of a product company from using native mobile technologies to Flutter
+
+`Flutter`, `Dart`
+        </td>
+    </tr>    
     <tr>
         <td><img src="2023-11%20fwdays%20cto/images/thumbnail.png"/></td>
         <td>&nbsp;
@@ -7,7 +19,7 @@
 [**Впровадження Flutter у Tide: досвід провідної фінтех платформи з Великої Британії (Bringing Flutter to Tide: a case study of a leading fintech platform in the UK)**](2023-11%20fwdays%20cto/README.md)  
 *November 2023*
 
-A live online talk at the CTO fwdays'23 conference about  a transformation journey of a production product from native mobile technologies to Flutter
+A live online talk at the CTO fwdays'23 conference about a transformation journey of a product company from using native mobile technologies to Flutter
 
 `Flutter`, `Dart`
         </td>
@@ -67,7 +79,7 @@ A hands-on workshop at Flutter&Friends conference about API integration.
 [**From native to Flutter in less than a year**](2023-07%20wad%20wc/README.md)  
     *July 2023*
 
-A virtual talk at WeAreDevelopers World Congress about a transformation journey of a production product from native mobile technologies to Flutter.
+A virtual talk at WeAreDevelopers World Congress about a transformation journey of a product company from using native mobile technologies to Flutter
     
 `Flutter`, `Dart`
         </td>
