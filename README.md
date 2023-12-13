@@ -1,5 +1,17 @@
 
-<table>      
+<table>
+    <tr>
+        <td><img src="2023-11%20flutteristas/images/thumbnail.png"/></td>
+        <td>&nbsp;
+
+[**Code less, deliver even more**](2023-11%20flutteristas/README.md)  
+*November 2023*
+
+A virtual talk at the Flutteristas Conference about creating a code-generating package
+
+`Flutter`, `Dart`
+        </td>
+    </tr>    
     <tr>
         <td><img src="2023-10%20networking%20workshop%20(uk)/images/thumbnail.png"/></td>
         <td>&nbsp;
