@@ -1,6 +1,18 @@
 
 <table> 
     <tr>
+        <td><img src="2024-07%20fluttercon/images/thumbnail.png"/></td>
+        <td>&nbsp;
+
+[**Your ultimate guide to code generation productivity for Dart and Flutter**](2024-07%20fluttercon/README.md)  
+*July 2024*
+
+An in-person talk at FlutterCon about code generation and efficient codebase maintenance
+
+`Flutter`, `Dart`, `code generation`
+        </td>
+    </tr>
+    <tr>
         <td><img src="2024-04%20code-with-andrea/images/thumbnail.png"/></td>
         <td>&nbsp;
 
