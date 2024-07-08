@@ -1,6 +1,18 @@
 
 <table> 
     <tr>
+        <td><img src="2024-02%20observable-flutter/images/thumbnail.png"/></td>
+        <td>&nbsp;
+
+[**"Code generation for productive Dart and Flutter development" at Observable<Flutter>**](2024-02%20observable-flutter/README.md)  
+*February 2024*
+
+A guest podcast at Observable<Flutter> show on the official Flutter team YouTube channel
+
+`Flutter`, `Dart`, `code generation`
+        </td>
+    </tr>
+    <tr>
         <td><img src="2023-12%20leaddev/images/thumbnail.png"/></td>
         <td>&nbsp;
 
