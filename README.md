@@ -1,6 +1,18 @@
 
 <table> 
     <tr>
+        <td><img src="2024-04%20code-with-andrea/images/thumbnail.png"/></td>
+        <td>&nbsp;
+
+[**Code Generation with Dart & Flutter: The Ultimate Guide**](2024-04%20code-with-andrea/README.md)  
+*April 2024*
+
+An article on pushing Dart and Flutter development experience productivity further by adopting techniques like code generation
+
+`Flutter`, `Dart`
+        </td>
+    </tr>
+    <tr>
         <td><img src="2024-02%20tech-stack-tide/images/thumbnail.png"/></td>
         <td>&nbsp;
 
