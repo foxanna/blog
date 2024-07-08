@@ -1,6 +1,18 @@
 
 <table> 
     <tr>
+        <td><img src="2024-02%20tech-stack-tide/images/thumbnail.png"/></td>
+        <td>&nbsp;
+
+[**Mobile Tech Stack at Tide**](2024-02%20tech-stack-tide/README.md)  
+*February 2024*
+
+A virtual talk by Anna and Oleksandr Leushchenko for Flutter Global Summit'24 about technology choices at Tide
+
+`Flutter`, `Dart`
+        </td>
+    </tr>
+    <tr>
         <td><img src="2024-02%20observable-flutter/images/thumbnail.png"/></td>
         <td>&nbsp;
 

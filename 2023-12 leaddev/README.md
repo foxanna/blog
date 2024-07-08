@@ -2,6 +2,8 @@
 
 *An in-person talk at [the LeadDev Berlin Conference](https://leaddev.com/community/anna-leushchenko) on December 4, 2023.*
 
+*Watch on [YouTube](https://youtu.be/zuOdjy9SWio).*
+
 ![](images/cover_image.png)
 
 Tide is a financial services platform with a strong presence in the UK market and very ambitious global growth plans. We’ve been developing our mobile applications using native technologies for several years, and in pursuit of a solution with better performance, maintainability, and scalability, we chose to rebuild our product with Flutter, which is an emerging open-source framework by Google for building beautiful, natively compiled, multi-platform applications from a single codebase.
